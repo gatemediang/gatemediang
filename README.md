@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Coding since 2016<br>📚 I'm currently learning LLM Development<br>🎯 Goals: To solve real-world problems with Gen AI Apps<br>🎲 Fun fact: love football</p>
+<p align="left">✨ Coding hobbyist turned Developer<br>📚 I'm currently learning LLM Development<br>🎯 Goals: To solve real-world problems with Gen AI Apps<br>🎲 Fun fact: love football</p>
 
 ###
 
